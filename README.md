@@ -10,6 +10,16 @@ During your discussions, it is discovered that the dataset may include outliers.
 
 The department aims to educate students about the various factors that may contribute to developing a seed's classification. Rather than simply delivering a traditional lecture and expecting students to absorb the information passively, the intention is to encourage them to draw their own conclusions and validate those insights through practical engagement. To achieve this, the plan is to develop a machine learning model that will facilitate this exploration. Utilizing a real-world dataset containing diverse statistics about seeds, the model will classify whether each individual seed belongs to one of three classes **Kama - Class 1** **Rosa - Class 2** or **Canadian - Class 3**. The goal is for students to input their own data to see their hypothetical outcomes. This interactive approach is designed to enhance the lecture's relevance and provide an enjoyable academic experience. While the aim to improve the user interface of the machine learning model in the future, the immediate focus is on establishing the foundational code.
 
+**Features**
+
+- Area
+- Perimeter
+- Compactness
+- Length_of_kernel
+- Width_of_kernel
+- Asymmetry_coefficient
+- Length_of_kernel_groove
+- Class(123) - **target**
 
 **Data Sources:**
 

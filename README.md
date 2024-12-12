@@ -1,4 +1,7 @@
-# Building a SVM Model for Classification - Wheat Seeds
+# [Building a SVM Model for Classification - Wheat Seeds](https://nbviewer.org/github/tyrantdavis/svm-wheat-classification/blob/main/wheat-classification.ipynb)
+
+## [Demo](https://nbviewer.org/github/tyrantdavis/svm-wheat-classification/blob/main/wheat-classification.ipynb)
+
 A college department has shown interest in machine learning classification models. A professor from the Botany department aims to illustrate how the biological characteristics of seeds can influence their taxonomic classifications, such as their family, genus, and species. The professor has provided a dataset that includes various seeds and their physical traits. Unlike many datasets encountered in practical applications, the distribution of outcomes is balanced, with all three classes having the same frequency. 
 
 This examination will allow classifying  samples consisting of kernels from three separate wheat varieties as being  Kama(1), Rosa(2) or Canadian(3).
